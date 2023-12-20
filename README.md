@@ -11,4 +11,4 @@ The models included in this repository are suitable for a wide range of applicat
 3. Bank Churn Dataset
 
 ## Contact
-For any questions or inquiries, please feel free to contact the repository owner at [insert contact information here]. 
+For any questions or inquiries, please feel free to contact the repository owner at sanchitsingla1120@gmail.com. 
