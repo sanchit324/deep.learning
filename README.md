@@ -10,6 +10,7 @@ The models included in this repository are suitable for a wide range of applicat
 2. [Telecom Churn Dataset](https://github.com/sanchit324/deep.learning/blob/ed2284819e0d0b480d4ca546d48b151795521ac9/telco-customer-churn.ipynb)
 3. [Bank Churn Dataset](https://github.com/sanchit324/deep.learning/blob/ed2284819e0d0b480d4ca546d48b151795521ac9/bank-churn-prediction.ipynb)
 4. [CIFAR10 Dataset](https://github.com/sanchit324/deep.learning/blob/ed2284819e0d0b480d4ca546d48b151795521ac9/cifar10-dataset.ipynb)
+5. [Flower Dataset](https://github.com/sanchit324/deep.learning/blob/5231e6f4f3393cd3680ebd8ee8b04c71f098734b/flower-dataset.ipynb)
 
 ## Contact
 For any questions or inquiries, please feel free to contact the repository owner at sanchitsingla1120@gmail.com. 
