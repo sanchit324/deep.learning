@@ -3,8 +3,7 @@ import numpy as np
 import os
 import streamlit as st
 
-import langchain
-import openai
+
 from langchain.llms import OpenAI
 from langchain_experimental.agents import create_pandas_dataframe_agent
 
